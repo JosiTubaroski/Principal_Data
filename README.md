@@ -6,7 +6,7 @@
 # ✨ Dados
 
 <div> 
-<p><a href="https://github.com/JosiTubaroski/Data_Enginer/blob/main/README.md" target="_blank">Engenharia de Dados</a></p>
+<p><a href="https://github.com/JosiTubaroski/Data_Enginer/blob/main/README.md">Engenharia de Dados</a></p>
 </div> 
 
 <div> 
