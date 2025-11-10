@@ -14,7 +14,7 @@
 </div> 
 
 <div> 
-<p><a href="https://github.com/JosiTubaroski/DataScience">03. Ciencia de Dados</a></p>
+<p><a href="https://github.com/JosiTubaroski/DataScience">03. Inteligencia Artificial</a></p>
 </div> 
 
 
