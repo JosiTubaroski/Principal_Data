@@ -1,20 +1,19 @@
+# Portfólio de Dados
 
-<div> 
-<p><a href="https://github.com/JosiTubaroski">Home</a></p>
-</div> 
+Repositório índice com a trilha de estudos e projetos organizados por área dentro do universo de dados: Análise, Engenharia e Ciência de Dados / Inteligência Artificial.
 
-# ✨ Dados
+## Trilha de conteúdos
 
-<div> 
-<p><a href="https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/README.md">01.Analise de Dados</a></p>
-</div> 
+| Etapa | Área | Descrição |
+|---|---|---|
+| 01 | [Análise de Dados](https://github.com/joycequoos/Analise_de_Dados/blob/main/README.md) | Fundamentos, ferramentas (Python, Jupyter, Power BI) e projetos práticos de análise. |
+| 02 | [Engenharia de Dados](https://github.com/joycequoos/Data_Enginer/blob/main/README.md) | Pipelines, modelagem e infraestrutura para tratamento e movimentação de dados. |
+| 03 | [Inteligência Artificial / Data Science](https://github.com/joycequoos/DataScience) | Modelos, aprendizado de máquina e aplicações de IA sobre os dados analisados. |
 
-<div> 
-<p><a href="https://github.com/JosiTubaroski/Data_Enginer/blob/main/README.md">02.Engenharia de Dados</a></p>
-</div> 
+## Sobre
 
-<div> 
-<p><a href="https://github.com/JosiTubaroski/DataScience">03. Inteligencia Artificial</a></p>
-</div> 
+Este repositório serve como ponto de entrada para os demais projetos, organizando o conteúdo em uma progressão lógica — da análise exploratória até a aplicação de modelos de IA.
 
+## Contato
 
+Sugestões, dúvidas ou colaborações são bem-vindas — abra uma *issue* ou entre em contato pelo perfil do GitHub.
