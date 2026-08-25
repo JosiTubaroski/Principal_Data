@@ -5,9 +5,9 @@
 
 | Step | Area | Description |
 |------|------|-------------|
-| 01 | Data Analysis | Fundamentals, tools (Python, Jupyter, Power BI), and hands-on analysis projects. |
-| 02 | Data Engineering | Pipelines, modeling, and infrastructure for data processing and movement. |
-| 03 | Artificial Intelligence / Data Science | Models, machine learning, and AI applications built on top of the analyzed data. |
+| 01 | [Data Analysis](https://github.com/JosiTubaroski/Analise_de_Dados/blob/main/README.md) | Fundamentals, tools (Python, Jupyter, Power BI), and hands-on analysis projects. |
+| 02 |  [Data Engineering](https://github.com/JosiTubaroski/Data_Enginer/blob/main/README.md) | Pipelines, modeling, and infrastructure for data processing and movement. |
+| 03 | [Artificial Intelligence / Data Science](https://github.com/JosiTubaroski/DataScience) | Models, machine learning, and AI applications built on top of the analyzed data. |
 
 ## About
 
