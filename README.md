@@ -1,22 +1,18 @@
 
-[← Voltar ao perfil](https://github.com/joycequoos)
+[← Back to profile](https://github.com/joycequoos)
 
-# Portfólio de Dados
+## Content Track
 
-Repositório índice com a trilha de estudos e projetos organizados por área dentro do universo de dados: Análise, Engenharia e Ciência de Dados / Inteligência Artificial.
+| Step | Area | Description |
+|------|------|-------------|
+| 01 | Data Analysis | Fundamentals, tools (Python, Jupyter, Power BI), and hands-on analysis projects. |
+| 02 | Data Engineering | Pipelines, modeling, and infrastructure for data processing and movement. |
+| 03 | Artificial Intelligence / Data Science | Models, machine learning, and AI applications built on top of the analyzed data. |
 
-## Trilha de conteúdos
+## About
 
-| Etapa | Área | Descrição |
-|---|---|---|
-| 01 | [Análise de Dados](https://github.com/joycequoos/Analise_de_Dados/blob/main/README.md) | Fundamentos, ferramentas (Python, Jupyter, Power BI) e projetos práticos de análise. |
-| 02 | [Engenharia de Dados](https://github.com/joycequoos/Data_Enginer/blob/main/README.md) | Pipelines, modelagem e infraestrutura para tratamento e movimentação de dados. |
-| 03 | [Inteligência Artificial / Data Science](https://github.com/joycequoos/DataScience) | Modelos, aprendizado de máquina e aplicações de IA sobre os dados analisados. |
+This repository serves as an entry point to the other projects, organizing the content in a logical progression — from exploratory analysis to the application of AI models.
 
-## Sobre
+## Contact
 
-Este repositório serve como ponto de entrada para os demais projetos, organizando o conteúdo em uma progressão lógica — da análise exploratória até a aplicação de modelos de IA.
-
-## Contato
-
-Sugestões, dúvidas ou colaborações são bem-vindas — abra uma *issue* ou entre em contato pelo perfil do GitHub.
+Suggestions, questions, or collaborations are welcome — open an issue or reach out through my GitHub profile.
